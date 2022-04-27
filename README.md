@@ -1,19 +1,26 @@
-# x64dbg-HighLight-Dark-theme
+x64dbg-HighLight-Dark-theme
 x64dbg 高亮黑暗主题
-HighLight_Dark floder
+
+# Setp 1: HighLight_Dark floder
+
 Copy to:
+
 C:\x64dbg\release\themes
 
 ![~(3 ZDI@AE7ZUY6)Q_%0 TB](https://user-images.githubusercontent.com/19905801/165535861-53e302ea-341a-4a15-920b-a2a7f5896ff3.png)
 
 
-x32dbg.ini file
+# Setp 2: x32dbg.ini file
+
 Copy to:
+
 C:\x64dbg\release\x32
+
 ![N_Z19F1_$5FQ5H9}BRC4)YA](https://user-images.githubusercontent.com/19905801/165544650-68c46ee4-7d78-4bc9-a52f-df1e352b1085.png)
 
 
-open x64dbg config:
+# Setp 3: open x64dbg config:
+
 ![X~NKMFC3EWAMXDG)M(VZVX8](https://user-images.githubusercontent.com/19905801/165544865-1ddb5eb5-cf21-4fd4-afb9-d17d1dc6990a.png)
 
 
