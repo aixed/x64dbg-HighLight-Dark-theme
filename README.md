@@ -1,7 +1,7 @@
 x64dbg-HighLight-Dark-theme
 x64dbg 高亮黑暗主题
 
-# Setp 1: HighLight_Dark floder
+# Setp 1: HighLight_Dark folder
 
 Copy to:
 
